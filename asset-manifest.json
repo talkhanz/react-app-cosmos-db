@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-app-cosmos-db/static/css/main.6c7cf6ac.chunk.css",
+    "main.js": "/react-app-cosmos-db/static/js/main.53bd413f.chunk.js",
+    "main.js.map": "/react-app-cosmos-db/static/js/main.53bd413f.chunk.js.map",
+    "runtime-main.js": "/react-app-cosmos-db/static/js/runtime-main.36902e7e.js",
+    "runtime-main.js.map": "/react-app-cosmos-db/static/js/runtime-main.36902e7e.js.map",
+    "static/js/2.b32b9ce0.chunk.js": "/react-app-cosmos-db/static/js/2.b32b9ce0.chunk.js",
+    "static/js/2.b32b9ce0.chunk.js.map": "/react-app-cosmos-db/static/js/2.b32b9ce0.chunk.js.map",
+    "index.html": "/react-app-cosmos-db/index.html",
+    "precache-manifest.c66da8bbb062911e112d77750c298d18.js": "/react-app-cosmos-db/precache-manifest.c66da8bbb062911e112d77750c298d18.js",
+    "service-worker.js": "/react-app-cosmos-db/service-worker.js",
+    "static/css/main.6c7cf6ac.chunk.css.map": "/react-app-cosmos-db/static/css/main.6c7cf6ac.chunk.css.map",
+    "static/js/2.b32b9ce0.chunk.js.LICENSE.txt": "/react-app-cosmos-db/static/js/2.b32b9ce0.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/react-app-cosmos-db/static/media/banner.1db1ea3b.jpg",
+    "static/media/lipStick.jpg": "/react-app-cosmos-db/static/media/lipStick.d28494a7.jpg",
+    "static/media/logo.svg": "/react-app-cosmos-db/static/media/logo.5d5d9eef.svg",
+    "static/media/makeUp.jpg": "/react-app-cosmos-db/static/media/makeUp.ac8cec7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36902e7e.js",
+    "static/js/2.b32b9ce0.chunk.js",
+    "static/css/main.6c7cf6ac.chunk.css",
+    "static/js/main.53bd413f.chunk.js"
+  ]
+}
