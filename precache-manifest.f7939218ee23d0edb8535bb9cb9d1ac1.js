@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f7e4db885f629297c37a6dc9193992a",
+    "revision": "b1d3f90815f72f74b6ebad31ee42704d",
     "url": "/react-app-cosmos-db/index.html"
   },
   {
-    "revision": "322d073a737316643c7a",
+    "revision": "69efdae8bcc022d30bf8",
     "url": "/react-app-cosmos-db/static/css/main.6c7cf6ac.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-app-cosmos-db/static/js/2.b32b9ce0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "322d073a737316643c7a",
-    "url": "/react-app-cosmos-db/static/js/main.53bd413f.chunk.js"
+    "revision": "69efdae8bcc022d30bf8",
+    "url": "/react-app-cosmos-db/static/js/main.754de6f8.chunk.js"
   },
   {
     "revision": "6272d81250ec2f33fa27",
