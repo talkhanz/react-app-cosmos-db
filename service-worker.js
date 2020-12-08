@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-app-cosmos-db/precache-manifest.f7939218ee23d0edb8535bb9cb9d1ac1.js"
+  "/react-app-cosmos-db/precache-manifest.f3f8d40fe3c5c8fc91e526f35bccbd27.js"
 );
 
 self.addEventListener('message', (event) => {
